@@ -21,7 +21,7 @@
   - Add a description.
   - Insert due date in the correct format.
 
-### VIEW ALL THE TASKS
+### VIEW ALL TASKS
   ![Screenshot 2024-03-09 105626](https://github.com/MassimilianoCattani/finalCapstone/assets/52679658/3b8d4109-84ed-4ef2-a8ac-3d6d660df32b)
   - A full  overview of all the task for all the users.
 
