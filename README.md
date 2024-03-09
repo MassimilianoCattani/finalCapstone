@@ -46,6 +46,10 @@
   ![Screenshot 2024-03-09 105722](https://github.com/MassimilianoCattani/finalCapstone/assets/52679658/87979af5-58af-47bc-ada0-1155e90f051d)
   - Admin only access.
 
+## PROCESS
+The data processed gets into a dicitionary structure. 
+- When data gets written on the external .txt file, is transformed into a string, where each element is separated by ';'.
+- When data gets retrived from the .txt file, passes from the string type to the dictionary type. In this way we can access clearly to each element and create a custom layout to display the info. 
 
 
 
