@@ -8,7 +8,7 @@
 ### LOGIN
   ![Screenshot 2024-03-09 103754](https://github.com/MassimilianoCattani/finalCapstone/assets/52679658/5a3f6faf-c936-4fc8-9d63-498075854676)
   - The first step is a login panel.
-  - If the credetial are fine, a successful nessage will appear.
+  - If the credentials are fine, a successful message will appear.
 
 ### REGISTER A NEW USER
   ![Screenshot 2024-03-09 104452](https://github.com/MassimilianoCattani/finalCapstone/assets/52679658/7cfd8df1-72d1-4b79-ae05-55b27de64cb9)
@@ -25,7 +25,7 @@
   ![Screenshot 2024-03-09 105626](https://github.com/MassimilianoCattani/finalCapstone/assets/52679658/3b8d4109-84ed-4ef2-a8ac-3d6d660df32b)
   - A full  overview of all the task for all the users.
 
-### VIEW MY TASK
+### VIEW MY TASKS
   - View and modify sigle user task.
   - Change user for a specific task.
   - Change due date for the selected task.
@@ -48,7 +48,8 @@
 
 
 ## PROCESS
-The data processed gets into a dicitionary structure. 
+Each user task is a dictionary stored into a list.
+It is from and to the list of dictionaries that we can access, visualise and modify user task data (change user for the task or change due date).
 - When data gets written on the external .txt file, is transformed into a string, where each element is separated by ';'.
 - When data gets retrieved from the .txt file, passes from the string type to the dictionary type. In this way we can access clearly to each element and create a custom layout to display the info. 
 
