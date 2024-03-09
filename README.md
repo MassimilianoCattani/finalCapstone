@@ -6,10 +6,9 @@
   - The program will automatically generate users.txt and tasks.txt files. Each time a change or an update is done the .txt files will be re-written.
 
 ### LOGIN
-   ![image](https://github.com/MassimilianoCattani/finalCapstone/assets/52679658/f294a222-bf40-4deb-ab52-fff69be3a431)
+  ![Screenshot 2024-03-09 103754](https://github.com/MassimilianoCattani/finalCapstone/assets/52679658/5a3f6faf-c936-4fc8-9d63-498075854676)
   - The first step is a login panel.
   - If the credetial are fine, a successful nessage will appear.
-  ![Screenshot 2024-03-09 103754](https://github.com/MassimilianoCattani/finalCapstone/assets/52679658/5a3f6faf-c936-4fc8-9d63-498075854676)
 
 ### REGISTER A NEW USER
   ![Screenshot 2024-03-09 104452](https://github.com/MassimilianoCattani/finalCapstone/assets/52679658/7cfd8df1-72d1-4b79-ae05-55b27de64cb9)
