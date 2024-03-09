@@ -32,7 +32,7 @@
 
 ### GENERATE REPORTS
   ![Screenshot 2024-03-09 105705](https://github.com/MassimilianoCattani/finalCapstone/assets/52679658/6f3a8c24-9f37-435c-b9a3-4c9e335e75f1)
-  - Genral view:
+  - General view:
       - Total tasks
       - Total tasks completed and uncompleted.
   - Single user:
@@ -44,12 +44,13 @@
         
 ### DISPLAY STATISTICS
   ![Screenshot 2024-03-09 105722](https://github.com/MassimilianoCattani/finalCapstone/assets/52679658/87979af5-58af-47bc-ada0-1155e90f051d)
-  - Admin only access.
+  - Admin access only.
+
 
 ## PROCESS
 The data processed gets into a dicitionary structure. 
 - When data gets written on the external .txt file, is transformed into a string, where each element is separated by ';'.
-- When data gets retrived from the .txt file, passes from the string type to the dictionary type. In this way we can access clearly to each element and create a custom layout to display the info. 
+- When data gets retrieved from the .txt file, passes from the string type to the dictionary type. In this way we can access clearly to each element and create a custom layout to display the info. 
 
 
 
