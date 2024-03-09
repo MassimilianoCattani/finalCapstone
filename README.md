@@ -1,4 +1,4 @@
-#Task manager
+# Task manager
 
   - Add users and assign tasks to each one of them.
   - Check statistics for each user or for all of them.
